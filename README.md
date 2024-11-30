@@ -1,5 +1,11 @@
-# AdventOfCode2024
+# AdventOfCode2024.jl
 My attempts at the [Advent of Code 2024](https://adventofcode.com/2024) in the [Julia](https://julialang.org/) programming language.
+
+## Benchmarks
+
+| Day | Time | Allocated memory | Source |
+|----:|-----:|-----------------:|:------:|
+| [1](https://adventofcode.com/2024/day/1) | 159.375 μs | 310.07 KiB | [:white_check_mark:](https://github.com/fgittins/AdventOfCode2024.jl/blob/master/src/day01.jl) |
 
 System info:
 

@@ -1,5 +1,5 @@
 module AdventOfCode2024
 
-greet() = print("Hello World!")
+include("day01.jl")
 
 end # module AdventOfCode2024
