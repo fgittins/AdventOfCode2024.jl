@@ -40,3 +40,13 @@ end
         @test part2 == 1974
     end
 end
+
+@testset "Day05" begin
+    part1, part2 = AdventOfCode2024.Day05.day05()
+    @testset "part1" begin
+        @test part1 == 5964
+    end
+    @testset "part2" begin
+        @test part2 == 4719
+    end
+end
