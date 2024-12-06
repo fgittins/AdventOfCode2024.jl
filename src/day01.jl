@@ -1,7 +1,5 @@
 module Day01
 
-using DelimitedFiles
-
 function part1(list1, list2)
     distances = 0
     for (num1, num2) ∈ zip(sort(list1), sort(list2))
@@ -29,7 +27,7 @@ function part2(list1, list2)
 end
 
 function day01()
-    lists = readdlm(joinpath(@__DIR__, "..", "data", "day01.txt"), Int)
+    lists = reduce(vcat, (permutedims(parse.(Int, split(s))) for s ∈ readlines(joinpath(@__DIR__, "..", "data", "day01.txt"))))
     list1 = @view lists[:, 1]
     list2 = @view lists[:, 2]
     (part1(list1, list2), part2(list1, list2))
