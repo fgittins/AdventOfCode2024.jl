@@ -10,6 +10,7 @@ My attempts at the [Advent of Code 2024](https://adventofcode.com/2024) in the [
 | [3](https://adventofcode.com/2024/day/3) | 175.958 μs | 395.29 KiB | [:white_check_mark:](https://github.com/fgittins/AdventOfCode2024.jl/blob/main/src/day03.jl) |
 | [4](https://adventofcode.com/2024/day/4) | 691.291 μs | 6.00 MiB | [:white_check_mark:](https://github.com/fgittins/AdventOfCode2024.jl/blob/main/src/day04.jl) |
 | [5](https://adventofcode.com/2024/day/5) | 276.584 μs | 720.56 KiB | [:white_check_mark:](https://github.com/fgittins/AdventOfCode2024.jl/blob/main/src/day05.jl) |
+| [6](https://adventofcode.com/2024/day/6) | 876.056 ms | 3.92 GiB | [:white_check_mark:](https://github.com/fgittins/AdventOfCode2024.jl/blob/main/src/day06.jl) |
 
 System info:
 
