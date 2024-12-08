@@ -11,6 +11,7 @@ My attempts at the [Advent of Code 2024](https://adventofcode.com/2024) in the [
 | [4](https://adventofcode.com/2024/day/4) | 691.291 μs | 6.00 MiB | [:white_check_mark:](https://github.com/fgittins/AdventOfCode2024.jl/blob/main/src/day04.jl) |
 | [5](https://adventofcode.com/2024/day/5) | 276.584 μs | 720.56 KiB | [:white_check_mark:](https://github.com/fgittins/AdventOfCode2024.jl/blob/main/src/day05.jl) |
 | [6](https://adventofcode.com/2024/day/6) | 831.847 ms | 3.92 GiB | [:white_check_mark:](https://github.com/fgittins/AdventOfCode2024.jl/blob/main/src/day06.jl) |
+| [7](https://adventofcode.com/2024/day/7) | 60.374 ms | 141.73 MiB | [:white_check_mark:](https://github.com/fgittins/AdventOfCode2024.jl/blob/main/src/day07.jl) |
 
 System info:
 
