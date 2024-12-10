@@ -1,6 +1,8 @@
 # AdventOfCode2024.jl
 My attempts at the [Advent of Code 2024](https://adventofcode.com/2024) in the [Julia](https://julialang.org/) programming language.
 
+Note that this package will not work on your local machine unless you have downloaded your puzzle input directly from the [website](https://adventofcode.com/2024). For a Day `XX`, you may put the relevant puzzle input into a directory `data` with the name `dayXX.txt`. For example, if you wanted to solve Day 9, place the puzzle input into `data/day09.txt`.
+
 ## Benchmarks
 
 | Day | Time | Allocated memory | Source |
